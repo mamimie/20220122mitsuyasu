@@ -1,0 +1,12 @@
+.ttl::before {
+    content: url(../img/inspiration.svg);
+}
+body {
+    font-family: "Avenir Next";
+}
+.header {
+    text-align: justify;
+}
+p {
+    text-align: right;
+}
