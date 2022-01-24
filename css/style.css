@@ -96,11 +96,18 @@ input, select {
     content: url(../img/inspiration.svg);
 }
 
-.header-logo {
-    height: 10px;
-    width: 30px;
+.header-ttl {
+    float: left;
+    height: 30px;
+    width: 10px;
 }
-li {
+
+.header {
+    float: none;
+    height: 30px;
+    width: 10px;
+}
+a {
     list-style: none;
     float: right;
     margin: 10px 20px;
