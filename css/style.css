@@ -20,10 +20,13 @@ a {
 
 .absolute {
     position: absolute;
-    top: 50%;
     color: #C71585;
+    top: 30%;
     font-family: formal 436;
     font-size: 40px;
+    span {
+        color: rgb(37, 172, 160);
+    }
 }
 
 h2 {
@@ -32,10 +35,6 @@ h2 {
     color: #C71585;
     font-family: cosmic sans;
     font-size: 30px;
-}
-
-span {
-    color: rgb(37, 172, 160);
 }
 
 .ul {
